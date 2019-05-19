@@ -19,7 +19,7 @@ public class oddoreven
 	else
 
 		{
-		System.out.print("not valid");
+		System.out.print("Invalid");
 		}
 	}
 
