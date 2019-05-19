@@ -11,15 +11,15 @@ public static void main(String[] args)
 	a=get.nextLong();
 	b=get.nextLong();
 	c=get.nextLong();
-	if(a>c && a>b)
+	if(a>=c && a>=b)
 		{
 		System.out.print(a);
 		}
-	else if(b>a && b>c)
+	else if(b>=a && b>=c)
 		{
 		System.out.print(b);
 		}
-	else if(c>a && c>b)
+	else if(c>=a && c>=b)
 		{
 		System.out.print(c);
 		}
