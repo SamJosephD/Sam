@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class alpha
+public class alph
 {
 public static void main(String[] args)
 	{
