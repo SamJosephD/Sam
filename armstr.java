@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class armstro
+public class armstr
 {
 public static void main(String[] args)
 	{
