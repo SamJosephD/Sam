@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class nk
+public class nki
 {
 public static void main(String[] args)
 	{
