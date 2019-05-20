@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class power
+public class power1
 {
 public static void main(String[] args)
 	{
