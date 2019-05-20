@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class fact
+public class fac
 {
 public static void main(String[] args)
 	{
