@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class leap
+public class lea
 {
 public static void main(String[] args)
 	{
