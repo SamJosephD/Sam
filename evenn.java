@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class evenno
+public class evenn
 {
 public static void main(String[] args)
 	{
