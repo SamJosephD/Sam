@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class oddno
+public class oddn
 {
 public static void main(String[] args)
 	{
