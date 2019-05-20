@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class primeno
+public class primen
 {
 public static void main(String[] args)
 	{
