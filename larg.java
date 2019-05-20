@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class large
+public class larg
 {
 public static void main(String[] args)
 	{
