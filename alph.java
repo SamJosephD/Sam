@@ -14,7 +14,7 @@ public static void main(String[] args)
 		}
 	else
 		{
-		System.out.print("not");
+		System.out.print("No");
 		}
 	}
 
