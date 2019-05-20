@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class sum
+public class su
 {
 public static void main(String[] args)
 	{
