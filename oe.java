@@ -19,7 +19,7 @@ public class oe
 	else
 
 		{
-		System.out.print("Invalid");
+		System.out.print("invalid");
 		}
 	}
 
