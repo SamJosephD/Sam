@@ -36,11 +36,11 @@ public static void main(String[] args)
 	}
 	if(low!=0 || high!=0 && num!=0)
 	{
-	System.out.print("yes");
+	System.out.print("Yes");
 	}
 	else
 	{
-	System.out.print("no");
+	System.out.print("No");
 	}
 	
 	}
