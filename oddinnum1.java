@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class oddinnum
+public class oddinnum1
 {
 public static void main(String[] args)
 	{
@@ -21,7 +21,7 @@ public static void main(String[] args)
 	n1=n1/10;
 	if(a2%2==1)
 	{
-	System.out.print(a2);
+	System.out.print(a2+" ");
 	}
 	
 	}
