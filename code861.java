@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class code86
+public class code861
 {
 public static void main(String[] args)
 	{
@@ -22,10 +22,10 @@ public static void main(String[] args)
 	
 	if(count==l)
 	{
-	System.out.print("yes");
+	System.out.print("Yes");
 	}
 	else
-	System.out.print("no");
+	System.out.print("No");
 	
 	}
 
